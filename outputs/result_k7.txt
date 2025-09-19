@@ -1,0 +1,15 @@
+k = 7
+accuracy = 0.9046
+precision = 0.6099
+recall = 0.4246
+f1 = 0.5006
+
+Classification report:
+              precision    recall  f1-score   support
+
+          no       0.93      0.97      0.95      7310
+         yes       0.61      0.42      0.50       928
+
+    accuracy                           0.90      8238
+   macro avg       0.77      0.70      0.72      8238
+weighted avg       0.89      0.90      0.90      8238
